@@ -1,0 +1,19 @@
+# Customer / proprietary data
+testdata/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# PyInstaller
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
